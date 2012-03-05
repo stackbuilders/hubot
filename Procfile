@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Evil Robot
+web: bin/hubot -a campfire -n hubot
